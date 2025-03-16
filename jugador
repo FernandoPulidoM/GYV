@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "CowSquidMan",
+    "nivel": 17
+  },
+  {
+    "id": 2,
+    "name": "RafaelYeager",
+    "nivel": 10000
+  },
+  {
+    "id": 3,
+    "name": "PescadoMan",
+    "nivel": 2
+  },
+  {
+    "id": 4,
+    "name": "SailorMoon",
+    "nivel": 1599
+  },
+  {
+    "id": 5,
+    "name": "TadeoPrisas",
+    "nivel": 4
+  },
+  {
+    "id": 6,
+    "name": "MedueleLaRodilla",
+    "nivel": 500
+  },
+  {
+    "id": 7,
+    "name": "MuchoTexto",
+    "nivel": 2323
+  }
+]
